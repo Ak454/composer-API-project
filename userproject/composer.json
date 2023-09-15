@@ -1,0 +1,19 @@
+{
+    "name": "akash/userproject",
+    "description": "plentific-job-task",
+    "autoload": {
+        "psr-4": {
+            "Akash\\UserProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akash Parmar",
+            "email": "akashparmar1996@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "phpunit/phpunit": "^10.1"
+    }
+}
